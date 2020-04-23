@@ -1,0 +1,13 @@
+.Article {
+    background-color: #F0F0F3;
+    padding: 10px;
+}
+
+.Article h1 {
+    font-size:50px;
+    margin-top: 0px;
+}
+
+.Article img {
+    width:200px;
+}
